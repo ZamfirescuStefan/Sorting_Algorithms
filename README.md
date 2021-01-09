@@ -12,7 +12,8 @@ The program takes input from ```date.in``` file in this form:
  - for each test the number of elements and maximum value of the elements 
  
  The output is written in the ```date.out``` file, and for each algorithm show sorting time and if the array is sorted.
-
+ <br />
+ ![output image](https://github.com/ZamfirescuStefan/Sorting_Algorithms/blob/main/output.png)
 <br />
 <i>
 This program was developed as a homework for the Data Structure Class 
